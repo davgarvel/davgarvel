@@ -11,4 +11,5 @@ en práctica lo aprendido y poder formar parte de este ámbito laboral.
 :keyboard:
 
 
-![Correo electrónico](/foto%20gmail.png)
+![Correo electrónico](/foto%20gmail.png) 
+<img src="/foto gmail.png" width="50%">
