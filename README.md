@@ -24,7 +24,7 @@ Me apasiona la programación y estoy en constante aprendizaje, con ganas de apor
 
 ## 📫 Conecta conmigo
 - 💼 [LinkedIn](www.linkedin.com/in/david-garcia-vela-27b653308)   
-- 📧 **dagave05.com**
+- 📧 **dagave05@gmail.com**
 
 
 
